@@ -712,12 +712,12 @@
             ],
             "time": "5min to run",
             "configuration": "Manual configurations required",
-            "thumbnailPath": "assets/ttk_thumb.png",
-            "gifPath": "assets/ttk.gif",
+            "thumbnailPath": "assets/connector-copilot-results.png",
+            "gifPath": "assets/connector-copilot-results.png",
             "suggested": false,
             "downloadUrlInfo": {
                 "owner": "sebastienlevert",
-                "repository": "TeamsFx-Samples",
+                "repository": "graph-connectors-samples",
                 "ref": "sebastienlevert/policies",
                 "dir": "samples/nodejs-typescript-policies"
             }

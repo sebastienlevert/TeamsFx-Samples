@@ -696,6 +696,33 @@
             }
         },
         {
+            "id": "gc-nodejs-typescript-policies",
+            "shortId": "gc-policies",
+            "onboardDate": "2024-08-20",
+            "title": "Ingest policies data into Microsoft 365 with a Microsoft Graph Connector",
+            "shortDescription": "This sample project uses Teams Toolkit for Visual Studio Code to simplify the process of creating a Microsoft Graph connector that ingests data from a custom API to Microsoft Graph.",
+            "fullDescription": "This sample project uses Teams Toolkit for Visual Studio Code to simplify the process of creating a Microsoft Graph connector that ingests data from a custom API to Microsoft Graph. It provides an end to end example of creating the connector and ingesting content.",
+            "types": [
+              "Tab"
+            ],
+            "tags": [
+              "TS",
+              "Microsoft Graph Connectors",
+              "Azure Functions"
+            ],
+            "time": "5min to run",
+            "configuration": "Manual configurations required",
+            "thumbnailPath": "assets/ttk_thumb.png",
+            "gifPath": "assets/ttk.gif",
+            "suggested": false,
+            "downloadUrlInfo": {
+                "owner": "sebastienlevert",
+                "repository": "TeamsFx-Samples",
+                "ref": "sebastienlevert/policies",
+                "dir": "samples/nodejs-typescript-policies"
+            }
+        },
+        {
             "id": "reddit-link-unfurling",
             "shortId": "reddit-link-unfurling",
             "onboardDate": "2023-12-12",

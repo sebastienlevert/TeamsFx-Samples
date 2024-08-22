@@ -699,7 +699,7 @@
             "id": "gc-nodejs-typescript-policies",
             "shortId": "gc-policies",
             "onboardDate": "2024-08-20",
-            "title": "Ingest policies data into Microsoft 365 with a Microsoft Graph Connector",
+            "title": "Policy copilot",
             "shortDescription": "This sample project uses Teams Toolkit for Visual Studio Code to simplify the process of creating a Microsoft Graph connector that ingests data from a custom API to Microsoft Graph.",
             "fullDescription": "This sample project uses Teams Toolkit for Visual Studio Code to simplify the process of creating a Microsoft Graph connector that ingests data from a custom API to Microsoft Graph. It provides an end to end example of creating the connector and ingesting content.",
             "types": [
